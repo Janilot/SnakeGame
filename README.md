@@ -1,2 +1,2 @@
 # SnakeGame
-Java Swing Game
+Java swing based developed game. Project time - 2 weeks
